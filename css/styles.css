@@ -1,0 +1,63 @@
+body {
+  background-color: #d6efc7;
+  text-align: center;
+}
+
+h1 {
+  color: #db6400;
+  font-family: copperplate, papyrus, fantasy;
+  font-size: 250%;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: alex brush;
+  font-size: 250%
+}
+
+h3 {
+  color: #66bfbf;
+  font-family: alex brush;
+  font-size: 150%
+}
+
+hr {
+  border-color: olive;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 7%;
+}
+
+p {
+  color: #a6a9b6;
+  font-family: cursive;
+}
+
+ul {
+  color: #a6a9b6;
+  text-align: center;
+}
+
+ol {
+  color: #a6a9b6;
+  text-align: center;
+}
+
+table {
+  align-self: center;
+  color: #a6a9b6;
+  empty-cells: show;
+  font-family: cursive;
+  text-align: left;
+}
+
+thead {
+  color: #db6400;
+  text-align: center;
+}
+
+form {
+  color: #db6400;
+  font-family: alex brush;
+  font-size: 125%;
+}
